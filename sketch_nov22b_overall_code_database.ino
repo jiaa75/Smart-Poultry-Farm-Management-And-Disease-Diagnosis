@@ -20,11 +20,11 @@
 #include <addons/TokenHelper.h>
 #include <addons/RTDBHelper.h>
 
-#define WIFI_SSID "BCN-FIBER-FAST-NET 285" // Replace with your Wi-Fi SSID
-#define WIFI_PASSWORD "85858585"           // Replace with your Wi-Fi Password
+#define WIFI_SSID "Your internet" // Replace with your Wi-Fi SSID
+#define WIFI_PASSWORD "Your internet password"           // Replace with your Wi-Fi Password
 
-#define API_KEY "AIzaSyBoHVHELzc1qk3WTa_yBvWGln2UsmePScw" // Replace with your Firebase API Key
-#define DATABASE_URL "sensors-bf1cc-default-rtdb.firebaseio.com/" // Replace with your Firebase RTDB URL
+#define API_KEY "YOUR_API_KEY_HERE" // Replace with your Firebase API Key
+#define DATABASE_URL "YOUR_FIREBASE_URL_HERE" // Replace with your Firebase RTDB URL
 
 FirebaseData fbdo;
 FirebaseAuth auth;
